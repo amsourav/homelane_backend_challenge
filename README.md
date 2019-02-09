@@ -1,5 +1,3 @@
-Homelane Hackerearth Challenge
-===============================
 
 # About
 
@@ -56,3 +54,6 @@ The initial startup might take some time. since the db is very large (`23 MB` du
 
 - `cd services/query`
 - `npm run test`
+=======
+# homelane_backend_challenge
+Homelane Backend Challenge
